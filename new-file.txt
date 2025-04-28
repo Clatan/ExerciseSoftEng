@@ -1,0 +1,8 @@
+1. Buat akun github
+2. Buat repository di github
+3. Buat file.txt
+4. Lakukan commit dan edit di file.txt
+5. Buat branch baru
+6.	Buat file.txt di branch baru
+7.	Lakukan commit edit file.txt di branch baru
+8.	Merge file tersebut
